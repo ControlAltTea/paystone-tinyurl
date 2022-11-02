@@ -1,4 +1,4 @@
-import generateTinyURLarr from "./test"
+import generateTinyURLarr from "./generateTinyURL"
 import { useState } from 'react'
 
 export default function Layout() {
